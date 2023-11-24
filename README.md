@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @G69D
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning Responsive web design
+- 👀 I’m a Web/App developer
+- 🌱 I’m currently learning JavaScript Algorithms and Data Structures
 - 💞️ I’m looking to collaborate on any project i can learn and also contribute my skills
 - 📫 How to reach me akinspop25@gmail.com
 
